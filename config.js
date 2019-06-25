@@ -60,7 +60,7 @@ module.exports = {
     'docker', // docker for mac
     //'dropbox',
     //'evernote',
-    'flux',
+    //'flux',
     'gpg-suite',
     //'ireadfast',
     'iterm2',
